@@ -1,0 +1,12 @@
+Team: BuzzerBeaters
+
+Fergus Scott / Glen Bowen / Jake Dec / Sean Fitzpatrick
+
+https://github.com/JakeDec/CS5340_HCI_Project
+
+Preliminary drawing attached:
+
+
+We propose a minimalist scheduler to allow easier management of a shared resource. One of our group members has been having difficulty at work with the proper allocating of 3D printers. They have many 3D printers, but in order to see which one is next available, a person must visually inspect each one to check the remaining time. If that person is not ready as soon as the machine is done, someone else may take their place. 
+
+We want to centralize the status of each machine. This will allow users to see which machines are available at a glance, and if none are currently available, the user can enter their name on a waiting list. There will be tabs for additional info about the equipment, as well as an Admin. tab to manage the scheduler. This scheduler can be used for many different kinds of shared resources: 3D printers, computer workstations, offices/conference rooms, playground equipment (including Thomas train toys), etc.
